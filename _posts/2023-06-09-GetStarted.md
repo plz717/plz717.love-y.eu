@@ -1,12 +1,12 @@
-```
 ---
+
 title: GetStarted
 date: 2023-06-09 17:00:00
 categories: [Technology, Blog]
 tags: [jekyll, get_started]
 math: true
+
 ---
-```
 
 The following shows how to build your own GitHub pages with jekyll.
 
