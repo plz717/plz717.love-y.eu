@@ -4,6 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
-我就是大庞庞呀
+I am an unhappy girl seeking happiness, please contact me if you have some ideas on how to be happier.
